@@ -4,7 +4,7 @@
 
 0001NCTR1
 
-Ilse Córdova - ilse@nct.com 
+Ilse Córdova - ilse@nct.com /
 Montserrat Olivares - montseO@nct.com
 
 ## 2. References
